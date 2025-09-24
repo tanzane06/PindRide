@@ -1,0 +1,5 @@
+{
+  "name": "Punjab Bus Tracker",
+  "description": "A modern, clean Progressive Web App for tracking buses in real-time. Features include a live map, route details, low-bandwidth mode, and SMS fallback options, designed with a sleek and professional user interface.",
+  "requestFramePermissions": []
+}
